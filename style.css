@@ -1,0 +1,20 @@
+.nasif{
+    width: 25%;
+   
+    border: 2px;
+}
+
+.product_details{
+    
+}
+
+.a1{
+    color: aqua;
+
+}
+a1:hover{
+    color: azure;
+    text-decoration: underline;
+    transition: 0.8;
+
+}
